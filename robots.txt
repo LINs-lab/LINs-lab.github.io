@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://OptLINs-WestlakeU.github.io/sitemap.xml
+Sitemap: https://lins-lab.github.io/sitemap.xml

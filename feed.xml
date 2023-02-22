@@ -1,2 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://lins-lab.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lins-lab.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-02-21T20:20:14+08:00</updated><id>https://lins-lab.github.io/feed.xml</id><title type="html">LINs Lab</title><subtitle>Website for research group.
-</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://lins-lab.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lins-lab.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-02-22T13:16:38+08:00</updated><id>https://lins-lab.github.io/feed.xml</id><title type="html">LINs Lab</title><subtitle>Website for research group.
+</subtitle><entry><title type="html">Remote research internship (Available)</title><link href="https://lins-lab.github.io/_posts/project-1/" rel="alternate" type="text/html" title="Remote research internship (Available)" /><published>2023-02-22T08:00:00+08:00</published><updated>2023-02-22T08:00:00+08:00</updated><id>https://lins-lab.github.io/_posts/project-1</id><content type="html" xml:base="https://lins-lab.github.io/_posts/project-1/"><![CDATA[<p><strong>Contact</strong> (We may not reply to each inquiry)<strong>:</strong></p>
+<ul>
+  <li><a href="https://tlin-taolin.github.io/">Tao LIN</a>, lintao@westlake.edu.cn</li>
+  <li><a href="https://sites.google.com/view/yuejiangliu/home">Yuejiang LIU</a>, yuejiang.liu@epfl.ch</li>
+</ul>
+
+<p><strong>Type:</strong> Remote research internship</p>
+
+<p><strong>Title:</strong> When Causal Representation Learning Meets Embodied Intelligence</p>
+
+<p><strong>Description:</strong> Modern representation learning has made remarkable progress in the i.i.d. setting, but it is still severely limited in coping with distribution shifts. One promising approach to addressing this challenge is to discover high-level causal variables (e.g., objects, entities) and mechanisms (e.g., interactions, interventions) from low-level observations (e.g., images). The strengths of such causally structured representations for robust generalization and efficient adaptation have been demonstrated in several recent works. Yet, its pursuit on static observational data is often beset with enormous difficulties, limiting most prior efforts to simple synthetic problems.</p>
+
+<p>The goal of this project is to revisit causal representation learning from an embodied agent perspective, where an agent can dynamically and intentionally intervene its surroundings in order to discover stable and reusable pieces of knowledge. Technically, we will explore self-supervised learning, weakly-supervised learning and/or meta-explorations that exploit different levels of structural assumptions for embodied causal representation learning.</p>
+
+<p><strong>Benefits:</strong></p>
+<ul>
+  <li>Publications at top venues in machine learning</li>
+  <li>Collaborations with top institutes in the US and EU</li>
+</ul>
+
+<p><strong>Prerequisite:</strong></p>
+<ul>
+  <li>Excellent GPA record</li>
+  <li>Proficient in Deep Learning and PyTorch</li>
+  <li>At least 20 hours per week for at least 4 - 6 months</li>
+</ul>
+
+<p><strong>Preferred:</strong></p>
+<ul>
+  <li>Research experience in any of the following areas: self-supervised learning, weakly-supervised learning, meta-exploration, causal learning</li>
+  <li>40 hours per week for 6 months</li>
+  <li>Passionate about open-ended research and academic growth</li>
+</ul>]]></content><author><name></name></author><category term="Robustness" /><category term="Causal Representation Learning" /><category term="Embodied Intelligence" /><summary type="html"><![CDATA[Contact (We may not reply to each inquiry): Tao LIN, lintao@westlake.edu.cn Yuejiang LIU, yuejiang.liu@epfl.ch]]></summary></entry><entry><title type="html">Remote research internship (Available)</title><link href="https://lins-lab.github.io/_posts/project-2/" rel="alternate" type="text/html" title="Remote research internship (Available)" /><published>2023-02-22T08:00:00+08:00</published><updated>2023-02-22T08:00:00+08:00</updated><id>https://lins-lab.github.io/_posts/project-2</id><content type="html" xml:base="https://lins-lab.github.io/_posts/project-2/"><![CDATA[<p><strong>Contact</strong> (We may not reply to each inquiry)<strong>:</strong></p>
+
+<ul>
+  <li><a href="https://tlin-taolin.github.io/">Tao LIN</a>, lintao@westlake.edu.cn</li>
+</ul>
+
+<p><strong>Type:</strong> Remote research internship</p>
+
+<p><strong>Title:</strong> Collaborative deep learning for multi-modal data</p>
+
+<p><strong>Benefits:</strong></p>
+<ul>
+  <li>Publications at top venues in machine learning</li>
+  <li>Collaborations with top institutes in the EU</li>
+</ul>
+
+<p><strong>Prerequisite:</strong></p>
+<ul>
+  <li>Proficient in Deep Learning and PyTorch</li>
+  <li>Provable strong background in programming and math</li>
+  <li>At least 20 hours per week for at least 4 - 6 months</li>
+</ul>
+
+<p><strong>Preferred:</strong></p>
+<ul>
+  <li>40 hours per week for 6 months</li>
+  <li>Passionate about open-ended research and academic growth</li>
+</ul>]]></content><author><name></name></author><category term="Multi-modal data" /><category term="Collaborative learning" /><summary type="html"><![CDATA[Contact (We may not reply to each inquiry):]]></summary></entry></feed>
